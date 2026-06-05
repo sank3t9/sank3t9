@@ -121,21 +121,18 @@ End-to-end fine-tuning + retrieval pipeline for a multi-domain conversational ag
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sank3t9&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sank3t9&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6" height="165"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sank3t9&theme=github_dark" width="100%"/>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sank3t9&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sank3t9&theme=github_dark" height="180"/>
+  &nbsp;&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sank3t9&theme=github_dark&utcOffset=-4" height="180"/>
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sank3t9/sank3t9/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 </div>
-
 ---
 
 ## 🏆 Certification
