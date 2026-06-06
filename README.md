@@ -123,16 +123,17 @@ End-to-end fine-tuning + retrieval pipeline for a multi-domain conversational ag
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sank3t9&theme=github_dark" width="100%"/>
 </div>
-
 <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sank3t9&theme=github_dark" height="180"/>
+  &nbsp;&nbsp;
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sank3t9&theme=github_dark" height="180"/>
   &nbsp;&nbsp;
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sank3t9&theme=github_dark&utcOffset=-4" height="180"/>
 </div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/sank3t9/sank3t9/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 </div>
+
 ---
 
 ## 🏆 Certification
