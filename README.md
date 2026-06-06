@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 🔭 **Currently:** Graduate Research Assistant @ University at Buffalo | Software Developer @ SAZ Tech
+- 🧑‍💻  **Currently:** Software Engineer @ SAZ Tech | Research Assistant @ UB
 - 💼 **Background:** 2+ years building LLM pipelines, RAG systems & eval frameworks | Anthropic Claude API, OpenAI, LangChain, FastAPI, AWS
 - 🚀 **Actively seeking:** Full-time SWE / Applied AI Engineer roles | open to relocate
 - ⚡ **Off the clock:** Playing basketball, watching NBA, hitting the gym, gaming, or exploring a new city and a good series
